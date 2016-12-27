@@ -1,7 +1,7 @@
 OS Ressource Manager
 ===============================
 
-version number: 0.0.2
+version number: 0.0.3
 author: Kalle R. Møller
 
 Overview
