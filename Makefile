@@ -29,7 +29,7 @@ lint:
 	flake8 osress test
 
 test:
-	python setup.py test
+	python setup.py -v test
 
 test-all:
 	tox
